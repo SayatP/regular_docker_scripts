@@ -5,4 +5,6 @@
 
 * sh log_cleanup.sh {container_hash}
 
-* sh iamge_cleanuo.sh
+* sh image_cleanup.sh
+
+* sh container_cleanup.sh
